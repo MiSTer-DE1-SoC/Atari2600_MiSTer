@@ -22,7 +22,7 @@ Auto mode is suitable for single play. For multiplay switch the mode in OSD to e
 
 
 ## Download precompiled binaries
-Go to [releases](https://github.com/MiSTer-devel/Atari2600_MiSTer/tree/master/releases) folder.
+Go to releases folder.
 
 
 ## Original readme
